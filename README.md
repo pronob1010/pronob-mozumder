@@ -28,8 +28,10 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <br /><br /><br />
 
-<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=pronob1010&show_icons=true" />   
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=pronob1010&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+ <br> &nbsp;
+<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=pronob1010&show_icons=true" />  
 
 [website]: #
 [facebook]: https://www.facebook.com/pronob1010

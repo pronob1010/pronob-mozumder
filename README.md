@@ -31,12 +31,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pronob1010&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 &nbsp;
 <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=pronob1010&show_icons=true" />  
-<br><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pronob1010&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/pronob1010/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pronob1010&repo=convoychat" />
-</a>
+ <br>
 
 [website]: #
 [facebook]: https://www.facebook.com/pronob1010

@@ -30,6 +30,6 @@
  <br>
  <hr>
  ### Connect with me:
-<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[https://www.linkedin.com/in/pronobmozumder/]
+<a src="https://www.linkedin.com/in/pronobmozumder/"> <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a>
 [<img align="left" alt="mehrab-haque | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][https://www.facebook.com/pronob1010]
  

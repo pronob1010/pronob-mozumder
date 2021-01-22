@@ -1,3 +1,7 @@
+[![HitCount](http://hits.dwyl.com/pronob1010/pronob1010.svg)](http://hits.dwyl.com/pronob1010/pronob1010)
+
+ <img src="https://komarev.com/ghpvc/?username=pronob1010">
+ 
 ### Hi there, I'm Pronob 👋
 
 

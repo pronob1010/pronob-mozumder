@@ -30,7 +30,7 @@
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pronob1010&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 &nbsp;
-<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=pronob1010&show_icons=true" />  
+
  <br>
 [website]: #
 [facebook]: https://www.facebook.com/pronob1010

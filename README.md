@@ -32,8 +32,6 @@
 &nbsp;
 <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=pronob1010&show_icons=true" />  
  <br>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pronob1010)](https://github.com/anuraghazra/github-readme-stats)
-
 [website]: #
 [facebook]: https://www.facebook.com/pronob1010
 [linkedin]: https://www.linkedin.com/in/pronobmozumder/

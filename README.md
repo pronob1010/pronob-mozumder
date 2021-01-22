@@ -28,9 +28,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pronob1010&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 &nbsp;
  <br>
- ### Connect with me:
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/pronobmozumder/]
-[<img align="left" alt="mehrab-haque | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][https://www.facebook.com/pronob1010]
  <hr>
- 
+ ### Connect with me:
+<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[https://www.linkedin.com/in/pronobmozumder/]
+[<img align="left" alt="mehrab-haque | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][https://www.facebook.com/pronob1010]
  

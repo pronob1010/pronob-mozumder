@@ -1,6 +1,6 @@
 [![HitCount](http://hits.dwyl.com/pronob1010/pronob1010.svg)](http://hits.dwyl.com/pronob1010/pronob1010)
 <img src="https://komarev.com/ghpvc/?username=pronob1010"> 
-### Hi there, I'm Pronob 👋
+### Hey!, I'm Pronob 👋
 A final year undergraduate student from Daffodil International University. I am from the department of Computer Science and Engineering (CSE) and I'm interested to work with modern software tools, technologies and learning programming stuff.
 
 

@@ -1,4 +1,4 @@
-[![HitCount]](http://hits.dwyl.com/pronob1010/pronob1010)
+[](http://hits.dwyl.com/pronob1010/pronob1010)
 <img src="https://komarev.com/ghpvc/?username=pronob1010"> 
 ### Hey!, I'm Pronob 👋
 A final year undergraduate student from Daffodil International University. I am from the department of Computer Science and Engineering (CSE) and I'm interested to work with modern software tools, technologies and learning programming stuff.
@@ -28,8 +28,8 @@ A final year undergraduate student from Daffodil International University. I am 
  
  <hr>
  
- ### Connect with me:
+ ### Connect me:
  
-<a src="https://www.linkedin.com/in/pronobmozumder/"> <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a>
-<a src="https://www.facebook.com/pronob1010"><img align="left" alt="mehrab-haque | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
+<a src="https://www.linkedin.com/in/pronobmozumder/"> <img align="left" alt="codeSTACKr | LinkedIn" width="31px" src="https://freepngimg.com/download/linkedin/8-2-linkedin-png-picture.png"></a>
+<a src="https://www.facebook.com/pronob1010"><img align="left" alt="mehrab-haque | Facebook" width="44px" src="https://www.elliotcolburn.co.uk/sites/www.elliotcolburn.co.uk/files/2021-03/Facebook-logo.png" /></a>
  

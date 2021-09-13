@@ -8,7 +8,7 @@
 A final year undergraduate student from Daffodil International University. I am from the department of Computer Science and Engineering (CSE) and I'm interested to work with modern software tools, technologies and learning programming stuff.
 
 
-- 💻 I ~like~ **love** coding
+- 💻 I **love** coding
 - 🔭 I’m currently working on a educational platform. Keep an eye for it.
 - 👯 I have successfully worked on production level web projects  front-end and back-end.
 - 👯 I’m looking to collaborate on opensource and group projects.

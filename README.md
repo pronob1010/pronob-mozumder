@@ -4,7 +4,7 @@
 
 [youtube]: https://www.youtube.com/c/daynotes?sub_confirmation=1
 <h1 align="center"> Hi 👋, I'm Pronob </h1>
-<hr>
+ 
 A final year undergraduate student from Daffodil International University. I am from the department of Computer Science and Engineering (CSE) and I'm interested to work with modern software tools, technologies and learning programming stuff.
 
 
@@ -13,10 +13,9 @@ A final year undergraduate student from Daffodil International University. I am 
 - 👯 I have successfully worked on production level web projects  front-end and back-end.
 - 👯 I’m looking to collaborate on opensource and group projects.
 
+
  
- <hr>
- 
- ### Connect me:
+<h1> Connect me: </h1>
  
 <a href="https://www.pronob.me"> <img align="left" alt="Pronob | Website" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fwebsite.png?alt=media"></a>
 

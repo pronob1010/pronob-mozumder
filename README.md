@@ -15,7 +15,7 @@ A final year undergraduate student from Daffodil International University. I am 
 
 
  
-<h1> Connect me: </h1>
+<h3> Connect me: </h3>
  
 <a href="https://www.pronob.me"> <img align="left" alt="Pronob | Website" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fwebsite.png?alt=media"></a>
 

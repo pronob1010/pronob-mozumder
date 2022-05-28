@@ -5,7 +5,7 @@
 [youtube]: https://www.youtube.com/c/daynotes?sub_confirmation=1
 <h1 align="center"> Hi 👋, I'm Pronob </h1>
  
-A final year undergraduate student from Daffodil International University. I am from the department of Computer Science and Engineering (CSE) and I'm interested to work with modern software tools, technologies and learning programming stuff.
+I'm a proactive and responsible person who is ready to take steps for a quality product and always try to be confident about new challenges. I'm also eager to learn new things to be resourceful for my next exception.
 
 
 - 💻 I **love** coding

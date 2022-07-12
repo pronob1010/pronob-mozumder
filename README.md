@@ -1,8 +1,8 @@
 [](http://hits.dwyl.com/pronob1010/pronob1010)
 <img src="https://komarev.com/ghpvc/?username=pronob1010"> <br>
-[![Youtube](https://img.shields.io/static/v1?label=Daynotes&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
+[![Youtube](https://img.shields.io/static/v1?message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
 
-[youtube]: https://www.youtube.com/c/daynotes?sub_confirmation=1
+[youtube]: https://www.youtube.com/c/pronobmozumder?sub_confirmation=1
 <h1 align="center"> Hello 👋, I'm Pronob </h1>
  
 I'm a proactive software engineer who is ready to take steps for a quality product and always try to be confident about new challenges. I'm also eager to learn new things to be resourceful for my next exception.

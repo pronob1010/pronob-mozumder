@@ -23,7 +23,7 @@ I'm a proactive software engineer who is ready to take steps for a quality produ
 
 <a href="https://www.facebook.com/pronob1010"><img align="left" alt="Pronob | Facebook" width="48px" src="https://www.elliotcolburn.co.uk/sites/www.elliotcolburn.co.uk/files/2021-03/Facebook-logo.png" /></a>
 
-<a href="https://www.youtube.com/c/daynotes?sub_confirmation=1"><img align="left" alt="daynotes| Youtube" width="33px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fyoutube.png?alt=media"/></a>
+<a href="https://www.youtube.com/c/daynotes?sub_confirmation=1"><img align="left" alt="daynotes| Youtube" width="33px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fyoutube.png?alt=media"/></a><br>
 
 
 ---

@@ -3,15 +3,15 @@
 [![Youtube](https://img.shields.io/static/v1?label=Daynotes&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
 
 [youtube]: https://www.youtube.com/c/daynotes?sub_confirmation=1
-<h1 align="center"> Hi 👋, I'm Pronob </h1>
+<h1 align="center"> Hello 👋, I'm Pronob </h1>
  
-I'm a proactive and responsible person who is ready to take steps for a quality product and always try to be confident about new challenges. I'm also eager to learn new things to be resourceful for my next exception.
+I'm a proactive software engineer who is ready to take steps for a quality product and always try to be confident about new challenges. I'm also eager to learn new things to be resourceful for my next exception.
 
 
-- 💻 I **love** coding
-- 🔭 I’m currently working on a educational platform. Keep your eye for it.
-- 👯 I have successfully worked on production level web projects  front-end and back-end.
-- 👯 I’m looking to collaborate on opensource and group projects.
+- 💻 I **love** solving new problems.
+- 🔭 I’m currently working on **Codeless** Page Builder. 
+- 💻 I have a bit of experience in web application development.
+- 👯 I’m always ready to be a part of any opensource projects.
 
 
  
@@ -24,6 +24,15 @@ I'm a proactive and responsible person who is ready to take steps for a quality 
 <a href="https://www.facebook.com/pronob1010"><img align="left" alt="Pronob | Facebook" width="48px" src="https://www.elliotcolburn.co.uk/sites/www.elliotcolburn.co.uk/files/2021-03/Facebook-logo.png" /></a>
 
 <a href="https://www.youtube.com/c/daynotes?sub_confirmation=1"><img align="left" alt="daynotes| Youtube" width="33px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fyoutube.png?alt=media"/></a>
+
+
+---
+<img  src="https://github-readme-stats.vercel.app/api?username=pronob1010&show_icons=true&hide_border=true&theme=tokyonight" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=pronob1010&theme=tokyonight&hide_border=true" width="49%" >
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=pronob1010&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
+
+---
 
 
  

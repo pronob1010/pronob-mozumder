@@ -19,11 +19,11 @@ I'm a proactive software engineer who is ready to take steps for a quality produ
  
 <a href="https://www.pronob.me"> <img align="left" alt="Pronob | Website" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fwebsite.png?alt=media"></a>
 
-<a href="https://www.linkedin.com/in/pronobmozumder/"><img align="left" alt="Pronob | LinkedIn" width="31px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Flinkedin.png?alt=media"></a>
+<a href="https://www.linkedin.com/in/pronobmozumder/"><img align="left" alt="Pronob Mozumder | LinkedIn" width="31px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Flinkedin.png?alt=media"></a>
 
-<a href="https://www.facebook.com/pronob1010"><img align="left" alt="Pronob | Facebook" width="48px" src="https://www.elliotcolburn.co.uk/sites/www.elliotcolburn.co.uk/files/2021-03/Facebook-logo.png" /></a>
+<a href="https://www.facebook.com/pronob1010"><img align="left" alt="Pronob Mozumder | Facebook" width="48px" src="https://www.elliotcolburn.co.uk/sites/www.elliotcolburn.co.uk/files/2021-03/Facebook-logo.png" /></a>
 
-<a href="https://www.youtube.com/c/pronobmozumder?sub_confirmation=1"><img align="left" alt="Pronob | Youtube" width="33px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fyoutube.png?alt=media"/></a><br>
+<a href="https://www.youtube.com/c/pronobmozumder?sub_confirmation=1"><img align="left" alt="Pronob Mozumder | Youtube" width="33px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fyoutube.png?alt=media"/></a><br>
 
 
 ---

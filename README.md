@@ -9,9 +9,9 @@ I'm a proactive software engineer who is ready to take steps for a quality produ
 
 
 - 💻 I **love** solving new problems.
-- 🔭 I’m currently working on **Codeless** Page Builder. 
+- 🔭 I’m currently working on **ThriveDesk** It's a customer support platform. 
 - 💻 I have a bit of experience in web application development.
-- 👯 I’m always ready to be a part of any opensource projects.
+- 👯 I’m always ready to be a part of any open-source projects.
 
 
  
